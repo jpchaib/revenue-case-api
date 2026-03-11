@@ -1,4 +1,4 @@
-package au.nsw.revenue.revenue_case_api;
+package au.nsw.revenue.caseapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
